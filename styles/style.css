@@ -273,6 +273,12 @@ ol {
   line-height: 19px;
 }
 
+.search-form__label:hover .search-form__label-text{
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
 .button {
   border: 1px solid #ffffff;
   background-color: transparent;
